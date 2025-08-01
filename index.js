@@ -4,8 +4,8 @@ const axios = require('axios');
 const line = require('@line/bot-sdk');
 
 const config = {
-    channelAccessToken: process.env.CHANNEL_ACCESS_TOKEN,
-    channelSecret: process.env.CHANNEL_SECRET,
+    channelAccessToken: "pQYtARRZe1FK/AVXXyl3RiQuIdJfl+2XPbqvQlHjAq6Oq9ijlUVrQWPuTXYmWQ/ePulmU1zX2teNMSBIegpKv9bCqmSA89XrKNwGXSzWqbQF42uYORXyRqJ8sohNN1N/Xwvd+2DiqZfasPvd2GVgLQdB04t89/1O/w1cDnyilFU=",
+    channelSecret: "e412165c549ba71f588b2e1d84c3e676",
 };
 
 const app = express();
